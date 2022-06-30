@@ -1,6 +1,6 @@
 **Welcome!**
 
-This repository contains initial configuration file for Teqplay ES-lint rules.
+This repository contains initial configuration file for Teqplay Prettier rules.
 
 The rules will be updated regarding the Teqplay developer feedbacks soon.
 
