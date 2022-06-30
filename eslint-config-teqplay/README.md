@@ -27,7 +27,6 @@ Second Step : Extend your `.eslintrc`
 Third Step : Add the following into your `.eslintignore`
 
 ```eslint
-// .eslintignore
 build/*
 public/*
 src/react-app-env.d.ts
