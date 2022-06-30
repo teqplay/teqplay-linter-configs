@@ -13,7 +13,7 @@ yarn add @teqplay/prettier-config --dev
 or
 
 ```bash
-npm install --save-dev @prettier-config
+npm install --save-dev @teqplay/prettier-config
 ```
 
 Second Step : Extend your `.prettierrc.js`
