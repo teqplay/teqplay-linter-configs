@@ -24,10 +24,11 @@ module.exports = {
 }
 ```
 
-(Optional) Third Step: add `check-lint` script to your `package.json`
+(Optional) Third Step: add the following scripts to your `package.json`
 
 ```json
-"check-lint": "prettier --check \"./src/**/*.ts\" \"./src/**/*.tsx\""
+"check-lint": "prettier --check \"./src/**/*.ts\" \"./src/**/*.tsx\"",
+"format": "prettier --write 'src/**/*.{ts,tsx,scss,css,json}'"
 ```
 
 It is ready!
