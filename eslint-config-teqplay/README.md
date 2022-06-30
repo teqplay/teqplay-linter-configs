@@ -34,5 +34,11 @@ src/react-app-env.d.ts
 src/serviceWorker.ts
 ```
 
+(Optional) Fourth Step: add `check-lint` script to your `package.json`
+
+```json
+"check-lint": "eslint --ext .js,.jsx,.ts,.tsx src --color"
+```
+
 It is ready!
 Happy coding!
