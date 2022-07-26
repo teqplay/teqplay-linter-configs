@@ -20,7 +20,7 @@ Second Step : Extend your `.prettierrc.js`
 
 ```js
 module.exports = {
-  ...require('@teqplay/eslint-config')
+  ...require('@teqplay/prettier-config')
 }
 ```
 
